@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CardsUI/CardViewController.swift"
-            timestampString = "514828967.305032"
+            timestampString = "515518566.561473"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "49"
-            endingLineNumber = "49"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
             landmarkName = "panGesture(_:)"
             landmarkType = "7">
          </BreakpointContent>
